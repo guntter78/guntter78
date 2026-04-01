@@ -39,10 +39,4 @@ When I'm not doing IT-related things, you’ll find me:
 
 ---
 
-## 📈 GitHub Stats 
-
-https://github-readme-stats.vercel.app/api?username=Guntter78&show_icons=true&theme=default  
-
----
-
 Thanks for stopping by!
