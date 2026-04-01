@@ -1,6 +1,6 @@
 # Hi, I'm Rudy 👋
 
-I'm a hands-on IT professional who likes understanding how things work, breaking them, fixing them, and improving them. My interest in tech started years ago with an old Packard Bell, Windows 98, and a lot of reinstalling from floppy disks — and that curiosity never stopped.
+I'm a hands-on IT professional who likes understanding how things work, breaking them, fixing them, and improving them. My interest in tech started years ago with an old Packard Bell, Windows 98, and a lot of reinstalling from floppy disks and that curiosity never stopped.
 
 I currently work as a **Young Professional in IT**, where I focus on infrastructure, troubleshooting, system improvements, and supporting teams with practical, reliable solutions. I enjoy working in environments where logic, structure, and problem‑solving come together.
 
