@@ -39,10 +39,9 @@ When I'm not doing IT-related things, you’ll find me:
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats 
 
-https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default  
-*Replace `USERNAME` with your GitHub username.*
+https://github-readme-stats.vercel.app/api?username=Guntter78&show_icons=true&theme=default  
 
 ---
 
