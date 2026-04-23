@@ -35,7 +35,7 @@ When I'm not doing IT-related things, you’ll find me:
 
 - Playing Counter-Strike, Call of Duty, or Battlefield  
 - Watching football or Formula 1  
-- Trying new craft beers — especially IPAs  
+- Trying new craft beers especially IPAs  
 
 ---
 
